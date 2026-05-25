@@ -1,0 +1,5 @@
+load STM32F407VGTx
+project name STM32CubeMX
+project toolchain "EWARM V8.50"
+project path "..\..\.."
+SetCopyLibrary "copy only"
